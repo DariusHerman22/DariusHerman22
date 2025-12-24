@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DariusHerman22
 - 👀 I’m interested in coding, gaming, reading, hanging out with friends, and exercising.
-- 🌱 I’m currently self-learning HTML, CSS, and Javascript/Typescript
+- 🌱 I’m currently self-learning HTML, CSS, and Javascript/Typescript as well as learning on HackTheBox
 - 💞️ I’m looking to collaborate on anything interesting where I can help.
-- 📫 How to reach me: Commenting on one of my works, or through other means if you know me.
+- 📫 How to reach me: Contact me @ dhermancs@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
